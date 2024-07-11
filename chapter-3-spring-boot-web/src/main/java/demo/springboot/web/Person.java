@@ -1,4 +1,4 @@
-package demo.springboot.issues;
+package demo.springboot.web;
 
 public class Person {
     private String name;

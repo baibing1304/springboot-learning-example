@@ -1,5 +1,4 @@
-package demo.springboot.issues;
-
+package demo.springboot.web;
 import java.util.ArrayList;
 import java.util.List;
 

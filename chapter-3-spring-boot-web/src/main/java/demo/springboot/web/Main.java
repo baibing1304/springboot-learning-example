@@ -1,4 +1,4 @@
-package demo.springboot.issues;
+package demo.springboot.web;
 
 public class Main {
     public static void main(String[] args) {
